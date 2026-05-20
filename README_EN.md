@@ -1,3 +1,5 @@
+🇧🇷 **Versão em português:** [Clique aqui](https://github.com/Carlos-Eduardo-Sayao/Simulador_de_Corrida/blob/master/README.md)
+
 # Java Racing Simulator
 
 This is a Java project that simulates a race between two cars directly in the console.  
